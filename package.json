@@ -1,0 +1,15 @@
+{
+  "name": "sftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.7.1",
+    "ssh2-sftp-client": "^7.2.2"
+  }
+}
